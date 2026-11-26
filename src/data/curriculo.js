@@ -7,7 +7,7 @@ export const perfil = {
   telefoneLink: '5511949304691',
   github: 'https://github.com/gui10rma',
   linkedin: 'https://www.linkedin.com/in/guilherme-rodrigues-19b857165/',
-  cv: '/Guilherme_Rodrigues_Matos_Curriculo.pdf',
+  cv: `${import.meta.env.BASE_URL}Guilherme_Rodrigues_Matos_Curriculo.pdf`,
 }
 
 export const sobre = {

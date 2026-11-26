@@ -18,6 +18,12 @@ npm run build
 npm run preview
 ```
 
+## Online
+
+Site publicado no GitHub Pages:
+
+https://gui10rma.github.io/curriculo-guilherme/
+
 ## Contato
 
 - GitHub: [gui10rma](https://github.com/gui10rma)
